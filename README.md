@@ -1,0 +1,7 @@
+- [x] Make sure space, tab are handled (use aliases)
+  - code for tab is 'Tab'
+- [ ] handler should check if key press is repeated, should we ignore these?
+- [ ] should i freeze the commands ?
+- [ ] create get repo
+- [ ] add to npm
+- [ ] fix issue with space (and trimming)
