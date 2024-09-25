@@ -1,6 +1,6 @@
 # Key surfer
 
-Key Surfer is a lightweight keyboard event-handling library that helps you manage key presses and shortcuts in your web applications.
+Key Surfer is a lightweight keyboard event-handling library that helps you manage key press sequences and shortcuts in your web applications.
 
 ## Features
 
@@ -49,7 +49,6 @@ The following items are currently on our roadmap:
   - Tab key is represented by the code 'Tab'
 - [ ] Implement repeated key press detection and handling
 - [ ] Create a public repository
-- [ ] add license
 - [ ] finish readme
 - [ ] Publish to npm
 

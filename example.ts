@@ -9,7 +9,6 @@ const keys = [
   'Tab a',
   'space c d',
   'leader t',
-  'e d g a r s',
   `${META_KEYS.ALT}-a`,
   `${META_KEYS.ALT}-b c d`,
   `${META_KEYS.ALT}-${META_KEYS.CTRL}-w`,
